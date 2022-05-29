@@ -1,2 +1,2 @@
 # FWJ-BillHandling
-Object Oriented Programing experiment for Beginners : Bill Handling
+Object Oriented Programing exercise for Beginners : Bill Handling
