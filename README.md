@@ -1,2 +1,2 @@
 # FWJ-BillHandling
-Experience of OOD/OOP
+Object Oriented Programing experiment for Beginners : Bill Handling
